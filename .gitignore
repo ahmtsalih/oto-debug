@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Paketleme
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Ortam
+.env
+venv/
+env/
