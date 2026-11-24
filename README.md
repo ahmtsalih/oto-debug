@@ -41,10 +41,6 @@ oto-debug kur <API_ANAHTARINIZ>
 ```bash
 oto-debug run python script.py
 ```
-*veya (Python dosyaları için otomatik algılama mevcuttur)*
-```bash
-oto-debug run script.py
-```
 
 ### 💡 Nasıl Çalışır?
 
